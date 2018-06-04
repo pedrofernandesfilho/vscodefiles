@@ -5,5 +5,6 @@ Install instructions for Windows on PowerShell:
 cd $HOME\AppData\Roaming\Code\User
 git init
 git remote add origin https://github.com/pedrofernandesfilho/vscodefiles.git
+rm .\keybindings.json, .\settings.json
 git pull origin master
 ````

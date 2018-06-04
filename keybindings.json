@@ -3,5 +3,9 @@
     {
         "key": "ctrl+shift+t",
         "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "ctrl+alt+l",
+        "command": "workbench.files.action.focusFilesExplorer"
     }
 ]

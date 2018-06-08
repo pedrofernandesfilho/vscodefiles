@@ -5,6 +5,6 @@
             "before": ["j", "j"],
             "after": ["<Esc>"]
         }
-   ],
-   "vim.useCtrlKeys": true
+    ],
+    "vim.useCtrlKeys": false
 }

@@ -1,7 +1,11 @@
 // Place your key bindings in this file to overwrite the defaults
 [
     {
-        "key": "ctrl+shift+t",
+        "key": "ctrl+alt+t",
         "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "ctrl+alt+l",
+        "command": "workbench.files.action.focusFilesExplorer"
     }
 ]
